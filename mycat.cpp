@@ -1,7 +1,6 @@
 /*
 Author: Jeet Undhad
-student#: 250981608
-date: Oct 3 2019
+
 */
 #include <iostream>
 #include <errno.h>
